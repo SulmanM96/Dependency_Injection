@@ -1,0 +1,16 @@
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\AnimalDI\AnimalDI\obj\Debug\AnimalDI.csproj.CoreCompileInputs.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\AnimalDI\AnimalDI\bin\Debug\AnimalDI.exe.config
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\AnimalDI\AnimalDI\bin\Debug\AnimalDI.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\AnimalDI\AnimalDI\bin\Debug\AnimalDI.pdb
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\AnimalDI\AnimalDI\obj\Debug\AnimalDI.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\AnimalDI\AnimalDI\obj\Debug\AnimalDI.pdb
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\AnimalDI\AnimalDI\obj\Debug\AnimalDI.csprojAssemblyReference.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\Sparta_Global_Dependency_Injection_hw\AnimalDI\AnimalDI\bin\Debug\AnimalDI.exe.config
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\Sparta_Global_Dependency_Injection_hw\AnimalDI\AnimalDI\bin\Debug\AnimalDI.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\Sparta_Global_Dependency_Injection_hw\AnimalDI\AnimalDI\bin\Debug\AnimalDI.pdb
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\Sparta_Global_Dependency_Injection_hw\AnimalDI\AnimalDI\obj\Debug\AnimalDI.csprojAssemblyReference.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\Sparta_Global_Dependency_Injection_hw\AnimalDI\AnimalDI\obj\Debug\AnimalDI.csproj.CoreCompileInputs.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\Sparta_Global_Dependency_Injection_hw\AnimalDI\AnimalDI\obj\Debug\AnimalDI.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day1\Sparta_Global_Dependency_Injection_hw\AnimalDI\AnimalDI\obj\Debug\AnimalDI.pdb
+C:\Users\Sulma\Desktop\Sparta_Global_Dependency_Injection_hw-dev\AnimalDI\AnimalDI\obj\Debug\AnimalDI.exe
+C:\Users\Sulma\Desktop\Sparta_Global_Dependency_Injection_hw-dev\AnimalDI\AnimalDI\obj\Debug\AnimalDI.pdb
